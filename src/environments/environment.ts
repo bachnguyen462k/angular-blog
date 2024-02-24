@@ -2,6 +2,6 @@
  * Environment settings
  */
 export const environment = {
-  host: 'http://localhost:5000',
+  host: 'https://ng-realworld-ssr-project.web.app',
   remoteApiHost: 'https://api.realworld.io'
 }
